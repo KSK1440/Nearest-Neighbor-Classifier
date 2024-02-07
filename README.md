@@ -5,5 +5,6 @@ The program aims to classify vectors using multithreading, enhancing classificat
 # Use of threads:
 The program employs threads for parallel vector classification, improving overall performance by leveraging multicore processors.
 # Installation and Running Instructions
-1.Compile: Use GCC to compile the program.__
+1.Compile: Use GCC to compile the program. 
+
 2.Run: Execute the compiled binary to run the program.
