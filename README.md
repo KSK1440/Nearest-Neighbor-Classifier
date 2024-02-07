@@ -1,3 +1,3 @@
 # Nearest-Neighbor-Classifier
 Nearest Neighbor Classifier
-![image](https://github.com/KSK1440/Nearest-Neighbor-Classifier/assets/157995851/089a3b71-921e-4965-894e-c0ebdbea221b)
+![image](https://github.com/KSK1440/Nearest-Neighbor-Classifier/assets/157995851/5920f2b3-0629-4f86-9971-ad397491228b)
